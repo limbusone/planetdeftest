@@ -1,0 +1,39 @@
+{
+    "threats":
+    [
+        {
+            "tipo": "Asteroid",
+            "speed": "30",
+            "target": "Defense",
+            "interval": "0",
+            "pontos": "10",
+            "hp": "10"
+        },
+        {
+            "tipo": "Virus",
+            "speed": "30",
+            "target": "City",
+            "interval": "0",
+            "pontos": "50",
+            "hp": "10"
+        },
+        {
+            "tipo": "EMP",
+            "speed": "31",
+            "target": "Power",
+            "interval": "0",
+            "pontos": "50",
+            "hp": "10",
+            "explosivel": "true"
+        },
+        {
+            "tipo": "Spaceship",
+            "shipPos": "0",
+            "speed": "0.1",
+            "target": "Player",
+            "interval": "0",
+            "pontos": "100",
+            "hp": "10"
+        }        
+    ]
+}

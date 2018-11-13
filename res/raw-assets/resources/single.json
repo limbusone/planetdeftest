@@ -1,0 +1,13 @@
+{
+    "threats":
+    [
+        {
+            "tipo": "Asteroid",
+            "speed": "30",
+            "target": "Defense",
+            "interval": "0",
+            "pontos": "10",
+            "hp": "10"
+        }
+    ]
+}
