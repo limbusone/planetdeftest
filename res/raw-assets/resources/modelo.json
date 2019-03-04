@@ -15,7 +15,8 @@
             "target": "City",
             "interval": "0",
             "pontos": "50",
-            "hp": "10"
+            "hp": "10",
+            "angle": "90"
         },
         {
             "tipo": "EMP",

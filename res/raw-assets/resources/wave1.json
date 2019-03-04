@@ -7,7 +7,8 @@
             "target": "Defense",
             "interval": "0",
             "pontos": "10",
-            "hp": "10"
+            "hp": "10",
+            "angle": "0"
         },
         {
             "tipo": "Virus",
@@ -15,42 +16,17 @@
             "target": "City",
             "interval": "0",
             "pontos": "50",
-            "hp": "10"
+            "hp": "10",
+            "angle": "180"
         },
         {
             "tipo": "Asteroid",
-            "speed": "32",
-            "target": "Defense",
-            "interval": "0",
-            "pontos": "10",
-            "hp": "10"
-        },
-        {
-            "tipo": "EMP",
-            "speed": "31",
+            "speed": "30",
             "target": "Power",
             "interval": "0",
-            "pontos": "50",
-            "hp": "10",
-            "explosivel": "true"
-        },
-        {
-            "tipo": "Asteroid",
-            "speed": "28",
-            "target": "Defense",
-            "interval": "5",
             "pontos": "10",
-            "hp": "10"
-        },
-        {
-            "tipo": "Spaceship",
-            "shipPos": "1",
-            "speed": "0.1",
-            "target": "Player",
-            "interval": "0",
-            "pontos": "100",
-            "hp": "10"
-        } 
-        
+            "hp": "10",
+            "angle": "405"
+        }
     ]
 }
